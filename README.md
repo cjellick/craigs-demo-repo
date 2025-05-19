@@ -21,3 +21,11 @@ Welcome to craigs-demo-repo!
 ## License
 
 (Specify the license for your project.)
+
+---
+
+## Joke
+
+Why do programmers prefer dark mode?
+
+Because light attracts bugs! 😄
